@@ -8,7 +8,7 @@ of sports images covering 100 different sports.The Images are
 [224,224,3] jpg format. 
 Data is separated into train, test and valid directories.
 
-![picture](images_documentation\result.png)
+![picture](images_documentation/result.png)
 
 # CNN In A Nutshell
 ![Logo](https://miro.medium.com/max/790/1*1VJDP6qDY9-ExTuQVEOlVg.gif)
